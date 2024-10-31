@@ -1,6 +1,3 @@
-Here's a Markdown version for your GitHub profile:
-
-```markdown
 # JAMES BEINE  
 ## PRAGMATIC STRATEGIST | PROBLEM SOLVER | SYSTEMS THINKER | CREATIVE TECHNOLOGIST  
 Turning Ideas into Solutions | Mastering the Complex | Leading for Tomorrow  
@@ -71,6 +68,3 @@ This broad experience offers a solid foundation for flexibility and innovation. 
 ---
 
 **References Available Upon Request**
-```
-
-This Markdown layout presents your profile in a structured and clean way on GitHub. Adjust any details or sections as needed.
