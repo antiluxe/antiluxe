@@ -36,7 +36,7 @@ This broad experience offers a solid foundation for flexibility and innovation. 
 ---
 
 ### EXPERIENCE  
-- **A N T I L U X E, Inc** – CEO, Founder | **Travel Agency** | 2024  
+- **A N T I L U X E, Inc** – CEO, Founder | **Technology** | 2024  
 - **Redstart Media, Inc** – Producer, CEO, Founder | **Media Portfolio** | 2024  
 - **Perfect Circle AI, Inc** – CEO, Founder | **AI Innovation** | 2024  
 - **Send Media, LLC** – Producer, Founder | **Media** | 2022 – 2024  
