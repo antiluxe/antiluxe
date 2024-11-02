@@ -5,7 +5,7 @@ Turning Ideas into Solutions | Mastering the Complex | Leading for Tomorrow
 ---
 
 ### Availability  
-- **PDF** | **Open Minded** | **Contract** | **W2** | **Remote** | **Onsite** | **Hybrid** | **Tampa, FL**
+**PDF** | **Open Minded** | **Contract** | **W2** | **Remote** | **Onsite** | **Hybrid** | **Tampa, FL**
 
 ---
 
